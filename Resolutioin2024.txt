@@ -3,6 +3,7 @@ Resolusi Di Tahun 2024
 1. Menguasai React JS sampai Hook
 2. Menguasai Bahasa C# sampai Expert
 3. Persiapan untuk ke ASP.NET Core
+4. Masuk ke NET MAUI.
 
 Persiapan DI Tahun 2025
 
@@ -10,5 +11,6 @@ Persiapan DI Tahun 2025
 2. Flutter
 
 Resolusi Pekerjaan
-1. Selesaikan WO
+
 2. Membuat Project TOTALAN
+3. Membuat Project Repair & Maintenance
