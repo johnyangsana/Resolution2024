@@ -5,9 +5,10 @@ Rencana Learning
 3. Angular
 4. Next.js
 5. Nest.js
+6. Laravel
 
 Rencana Tahun Berikutnya:
 
 1. Kotlin
 2. Golang
-
+3. Ruby
