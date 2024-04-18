@@ -1,0 +1,9 @@
+Rencana Learning
+
+1. Java Full Package
+2. Node.js
+
+Rencana Tahun Berikutnya:
+
+1. Kotlin
+2. Golang
