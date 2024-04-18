@@ -4,6 +4,7 @@ Rencana Learning
 2. Node.js
 3. Angular
 4. Next.js
+5. Nest.js
 
 Rencana Tahun Berikutnya:
 
