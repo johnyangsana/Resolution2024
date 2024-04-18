@@ -2,8 +2,12 @@ Rencana Learning
 
 1. Java Full Package
 2. Node.js
+3. Angular
+4. Next.js
+5. Nest.js
 
 Rencana Tahun Berikutnya:
 
 1. Kotlin
 2. Golang
+
