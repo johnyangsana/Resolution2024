@@ -1,9 +1,10 @@
 Rencana Learning
 
 1. Java Full Package
-2. Node.js
+2. Laravel
 
 Rencana Tahun Berikutnya:
 
 1. Kotlin
 2. Golang
+3. Ruby
