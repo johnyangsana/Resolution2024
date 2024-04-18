@@ -4,6 +4,11 @@ Resolusi Di Tahun 2024
 2. Menguasai Bahasa C# sampai Expert
 3. Persiapan untuk ke ASP.NET Core
 
+Persiapan DI Tahun 2025
+
+1. Dart
+2. Flutter
+
 Resolusi Pekerjaan
 1. Selesaikan WO
 2. Membuat Project TOTALAN
